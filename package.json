@@ -1,0 +1,9 @@
+{
+  "name": "homeguru",
+  "version": "1.0.0",
+  "description": "Home AI",
+  "main": "src/index.ts",
+  "repository": "git@github.com:quibusus/homeguru.git",
+  "author": "karold <karold@livesport.eu>",
+  "license": "MIT"
+}
